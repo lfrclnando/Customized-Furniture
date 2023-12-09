@@ -2,8 +2,8 @@
 
 # NAME THIS PROJECT
 
-## Customized Furniture Website
+### Customized Furniture Website
 
-### DESCRIPTION
+## DESCRIPTION
 
 #### This is a short training course using HTML and CSS simulating a customized furniture website.
